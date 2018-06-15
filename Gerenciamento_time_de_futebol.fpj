@@ -29,6 +29,7 @@
 	<CompilerType Value="C"/>
 	<AppType Value="CONSOLE"/>
 	<Files>
+		<File Name="menu.c"/>
 		<File Name="main.c"/>
 		<File Name="funcoes.c"/>
 		<File Name="funcoes.h"/>
