@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <ctype.h>
-#include "funcoes.h"
+#include <funcoes.h>
 
 
 int main()
