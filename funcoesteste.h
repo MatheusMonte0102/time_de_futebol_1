@@ -11,6 +11,7 @@
   typedef struct{;
 
     char time[30];
+    char jogadores; [40]
     int codigo;
     char ender[40];
     char cidade[50];
